@@ -9,6 +9,7 @@
 * If you want to stop creating do CTRL+C and to see download created accounts write this: cloudshell download acc.txt and click the download button.
 * Note: It just creates CID, doesn't skips the tutorial so they will be bot accounts. You can enter them If you want but, If you do you gotta finish the tutorial but If you use they as bots you can do what normal player does.
 * Note 2: If it stucks at connected to server/disconnected server after you created accounts probably you're got ip limited you gotta do this: https://media.discordapp.net/attachments/900416037781131305/901503881534664815/Ekran_Alnts.PNG?width=357&height=494, 
+* Note 3: If you want to create different GrowID. Click Open Editor > CID-3.81 > acc.txt then delete the old GrowID
 
 
 ### How to use CID-Creator? ( Tutorial with Video )
